@@ -44,6 +44,6 @@ SNS Email Notification
 * Operational cost reduced.
 
 ## Author
-Manya Sharma
-Major Project- Automated-Idle-Resource-Detection-and-Cost-Reduction-System
+- Manya Sharma
+- Major Project- Automated-Idle-Resource-Detection-and-Cost-Reduction-System
 
