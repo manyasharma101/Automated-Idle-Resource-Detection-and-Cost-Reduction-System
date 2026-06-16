@@ -1,0 +1,1 @@
+# Automated-Idle-Resource-Detection-and-Cost-Reduction-System
